@@ -3,6 +3,6 @@ November 9-11, 2015
 
 See the [PyDataNYC 2015 PyData Schedule](http://nyc2015.pydata.org/schedule/)
 
-Here are the notebooks and slides for [Performance Pandas](https://github.com/jreback/PyDataNYC2015/tree/master/performance)
+Here are the notebooks and slides for [Whats new in pandas](https://github.com/jreback/PyDataNYC2015/tree/master/whats-new-in-pandas)
 
-Here are the notebooks and slides for [Data Analysis with Pandas](https://github.com/jreback/PyDataNYC2015/tree/master/data_analysis)
+Here are the notebooks and slides for [Pandas Tutorial](https://github.com/jreback/PyDataNYC2015/tree/master/tutorial)
