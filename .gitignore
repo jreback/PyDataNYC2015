@@ -5,6 +5,7 @@ SO/
 *.html
 
 *~
+*.json
 *.h5
 *.csv
 *.txt
