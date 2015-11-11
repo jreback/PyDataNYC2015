@@ -5,7 +5,7 @@ xlrd
 xlwt
 html5lib
 patsy
-beautiful-soup
+BeautifulSoup4
 numpy
 cython
 scipy
