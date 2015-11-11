@@ -18,3 +18,4 @@ bottleneck
 numba
 dask
 scikit-learn
+seaborn
