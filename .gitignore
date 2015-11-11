@@ -5,6 +5,8 @@ SO/
 *.html
 
 *~
+*.msgpack
+*.pkl
 *.json
 *.h5
 *.csv
